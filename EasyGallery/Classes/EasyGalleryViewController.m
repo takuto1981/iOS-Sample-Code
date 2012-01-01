@@ -9,6 +9,8 @@
 #import "EasyGalleryViewController.h"
 #import "XCGalleryInnerScrollView.h"
 
+// test by Takuto
+
 enum {
 	kIndexOfPreviousScrollView = 0,
 	kIndexOfCurrentScrollView,
