@@ -11,6 +11,8 @@
 
 // test by Takuto
 
+// 日本語のコメントもテスト by たくと
+
 enum {
 	kIndexOfPreviousScrollView = 0,
 	kIndexOfCurrentScrollView,
